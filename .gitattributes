@@ -1,0 +1,1 @@
+*.qvw,[[:space:]]*.accdb,[[:space:]]*.qvd,[[:space:]]*.csv filter=lfs diff=lfs merge=lfs -text
